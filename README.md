@@ -8,7 +8,8 @@ This repository contains scripts for setting up development environments across 
 
 - [System Setup](./system-setup/): Scripts for general system setup.
 - [Rails Setup](./rails-setup/): Scripts for Ruby on Rails development environment.
-- [React.Js Setup](./react-setup/): Scripts for React.js development environment using **Vite** and **Create React App**
+- [React.js Setup](./react-setup/): Script for React.js development environment using **Vite** and **Create React App**
+- [Node.js Setup](./nodejs-setup/): Script for setting up a Node.js server
 
 ## Contributing
 

@@ -10,6 +10,7 @@ This repository contains scripts for setting up development environments across 
 - [Rails Setup](./rails-setup/): Scripts for Ruby on Rails development environment.
 - [React.js Setup](./react-setup/): Script for React.js development environment using **Vite** and **Create React App**
 - [Node.js Setup](./nodejs-setup/): Script for setting up a Node.js server
+- [Django Setup](./django-setup/): Script for setting up a Python Django server
 
 ## Contributing
 
